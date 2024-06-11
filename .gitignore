@@ -1,3 +1,6 @@
+**/*.exr
+**/*.npy
+
 # CPython cache
 **/__pycache__
 *.py[cod]
